@@ -4,5 +4,6 @@
 /**
  * 
  */
-module quiz_app_project {
+module quiz_java {
+	requires java.desktop;
 }
